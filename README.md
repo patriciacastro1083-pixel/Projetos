@@ -12,5 +12,7 @@ consumo_por_hora = (potência / 1000)
 
  Como executar o programa:
 
-O programa solicita o nome do eletrodoméstico, a potência e tempo em horas de uso por dia. Finaliza mostrando o consumo estimado em kWh/mês e o custo estimado do consumo em reais por kWh. 
+O programa solicita o nome do eletrodoméstico, a potência e tempo em horas de uso por dia. Finaliza mostrando o consumo estimado em kWh/mês e o custo estimado do consumo em reais por kWh.
+
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
