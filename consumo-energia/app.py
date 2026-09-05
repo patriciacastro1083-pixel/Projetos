@@ -14,7 +14,7 @@ horas_dias = float(input('Tempo médio de uso em Horas, por dia '))
 consumo_mensal = (potência * horas_dias * 30) /1000
 
 
-# Definindo a tarifa fixa por kWh em reais
+# Definindo o valor da tarifa fixa por kWh em reais
 
 tarifa_kWh = 1.04
 
